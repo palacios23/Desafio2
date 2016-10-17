@@ -1,0 +1,13 @@
+#contenedor {
+ background-image: url('../img/pista.jpg');
+ width: 800px;
+ height: 360px;
+ }
+ @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+ body{font-family:Open Sans;}
+
+ span {
+ text-align: center;
+ width: 100%;
+ font-size: 50px;
+ 
